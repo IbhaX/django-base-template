@@ -13,7 +13,6 @@ JAZZMIN_SETTINGS = {
     ],
     
     "usermenu_links": [
-        {"name": "Developer", "", "new_window": False},
         {"model": "auth.user"}
     ],
  # Render out the change view as a single form, or in tabs, current options are
